@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.molina.app_coordenadas.MainActivity">
+
+
+    <item android:id="@+id/Inicio"
+          android:title="Inicio"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+    <item android:id="@+id/acercade"
+          android:title="acerca de"
+          android:orderInCategory="100"
+          app:showAsAction="never"/>
+</menu>
